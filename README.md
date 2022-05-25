@@ -23,7 +23,7 @@
 ## 📝 Table of Contents
 
 - [About](#about)
-- 
+- this project it's have funtion for calculating about Numerical Mrthods.
 ## 🧐 About <a name = "about"></a>
 
 Write about 1-2 paragraphs describing the purpose of your project.
